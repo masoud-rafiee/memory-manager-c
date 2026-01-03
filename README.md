@@ -193,7 +193,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- CS321 - Systems Programming
+- CS409 - Operating Systems
 - Bishop's University
 - *Operating Systems: Three Easy Pieces*
 
