@@ -1,3 +1,0 @@
-E:/Masoud/Courses/Operating Systems/assignments/Assignment_02/cmake-build-debug/CMakeFiles/Assignment_02.dir
-E:/Masoud/Courses/Operating Systems/assignments/Assignment_02/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Masoud/Courses/Operating Systems/assignments/Assignment_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
